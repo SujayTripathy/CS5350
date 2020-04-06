@@ -5,3 +5,9 @@ There are two decision tree algorithms right now. ID3 for the car data, and ID3B
 Both of them can be called as; <br />
  $python3 ID3.py <depth of tree> <br />
  $python3 ID3Bank.py <depth of tree>
+
+The perceptron algorithm can simply be called by; <br />
+ $python3 Perceptron.py <br />
+
+The SVM algorithm can simply be called by; <br />
+ $python3 SVM.py <br />
